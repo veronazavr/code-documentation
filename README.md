@@ -33,7 +33,4 @@ NeuroStartUp — динамически развивающийся старта�
 ## Лицензия
 лицензии 0,0
 
-JavaScript:
-```
-<script src="https://localhost/neuro.sdk.min.js"></script>
-```
+
